@@ -6,13 +6,15 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Fullstack Software Engineer with more than 4 years of experience.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🤯 &nbsp; Crazy about software technologies, backend, frontend and a great user experience...
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🔎 &nbsp; Learning about Cloud (AWS), mobile development and UX Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; True believer that motivation is the way.
+
+- 🤪 &nbsp; I also enjoy video games, reading, photography...
 
 
 
@@ -61,7 +63,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/luis-espinosa-llanos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
 
