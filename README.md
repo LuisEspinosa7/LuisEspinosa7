@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEspinosa7&show_icons=true)
 
 [![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEspinosa7&show_icons=true)](https://github.com/LuisEspinosa7)
 
