@@ -39,18 +39,11 @@
 
 <hr>
 
-
-<br/><br/>
-
 [![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEspinosa7&show_icons=true)](https://github.com/LuisEspinosa7)
-
-<br/>
 
 <hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
 
 <p align="center">
 
