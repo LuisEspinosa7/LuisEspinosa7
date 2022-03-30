@@ -40,23 +40,17 @@
 <hr>
 
 
-
 <br/><br/>
 
 [![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEspinosa7&show_icons=true)](https://github.com/LuisEspinosa7)
 
 <br/>
 
-
-
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
 
 <p align="center">
 
@@ -64,12 +58,6 @@
 
 </p>
 
-
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=LuisEspinosa7.LuisEspinosa7)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
 
 <hr>
