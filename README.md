@@ -43,8 +43,6 @@
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEspinosa7&show_icons=true)
-
 [![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEspinosa7&show_icons=true)](https://github.com/LuisEspinosa7)
 
 <br/>
@@ -60,13 +58,11 @@
 <br>
 
 
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/luis-espinosa-llanos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Espinosa-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
-
 
 
 
