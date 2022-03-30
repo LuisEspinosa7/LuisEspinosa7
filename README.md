@@ -1,6 +1,6 @@
 ### <h2> I'm Luis Espinosa</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -40,6 +40,8 @@
 
 
 <br/><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 [![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEspinosa7&show_icons=true)](https://github.com/LuisEspinosa7)
 
