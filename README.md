@@ -10,7 +10,7 @@
 
 - 🤯 &nbsp; Crazy about software technologies, backend, frontend and a great user experience...
 
-- 🔎 &nbsp; Learning about Cloud (AWS), mobile development and UX Design.
+- 🔎 &nbsp; Learning about Cloud (AWS), arquitectures.
 
 - ✍️ &nbsp; True believer that motivation is the way.
 
