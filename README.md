@@ -6,7 +6,7 @@
 
 
 
-- 🎓 &nbsp; Fullstack Software Engineer with more than 4 years of experience.
+- 🎓 &nbsp; Java Software Engineer with more than 4 years of experience.
 
 - 🤯 &nbsp; Crazy about software technologies, backend, frontend and a great user experience...
 
@@ -14,7 +14,7 @@
 
 - ✍️ &nbsp; True believer that motivation is the way.
 
-- 🤪 &nbsp; I also enjoy video games, reading, photography...
+- 🤪 &nbsp; I also enjoy video games, reading, photography, languages, cultures ...
 
 
 
@@ -31,31 +31,27 @@
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=101010)]()
 </br>
+[![Docker](https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=Docker&logoColor=blue&labelColor=101010)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-007396?style=for-the-badge&logo=Kubernetes&logoColor=blue&labelColor=101010)]()
+</br>
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+</br>
 [![HTML](https://img.shields.io/badge/HTML-FA7343?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-007396?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=blue&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/Redux-d2a8ff?style=for-the-badge&logo=Redux&logoColor=purple&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-FA7343?style=for-the-badge&logo=Angular&logoColor=red&labelColor=101010)]()
 [![StyledComponents](https://img.shields.io/badge/StyledComponents-d2a8ff?style=for-the-badge&logo=styled-components&logoColor=purple&labelColor=101010)]()
-</br>
-[![Docker](https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=Docker&logoColor=blue&labelColor=101010)]()
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-007396?style=for-the-badge&logo=Kubernetes&logoColor=blue&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-FA7343?style=for-the-badge&logo=Angular&logoColor=red&labelColor=101010)]()
 </br>
 
 
 <h3>🛠 To Learn</h3>
 
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-4285F4?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue&labelColor=101010)]()
 
 
 <hr>
