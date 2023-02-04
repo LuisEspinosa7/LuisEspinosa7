@@ -51,7 +51,11 @@
 </br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Lambdas](https://img.shields.io/badge/Lambdas-FCC624?style=for-the-badge&logo=Amazon%20Lambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-FCC624?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+![Lambdas](https://img.shields.io/badge/Lambdas-FCC624?style=for-the-badge&logo=Amazon%20Lambdas&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FCC624?style=for-the-badge&logo=Amazon%20SQS&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FCC624?style=for-the-badge&logo=Amazon%20SNS&logoColor=white)
+![ETC](https://img.shields.io/badge/ETC...-FCC624?style=for-the-badge&logo=Amazon%20ETC&logoColor=white)
 </br>
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -77,6 +81,9 @@
 <h3>🛠 To Learn</h3>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Sysmte Design](https://img.shields.io/badge/System%20Design-000?style=for-the-badge)
+![OWASP TOP 10](https://img.shields.io/badge/OWASP%20TOP%2010-%230047B3.svg?style=for-the-badge&logoColor=white)
+
 </br>
 
 <hr>
