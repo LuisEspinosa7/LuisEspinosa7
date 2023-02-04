@@ -6,11 +6,11 @@
 
 
 
-- 🎓 &nbsp; Java Software Engineer with more than 4 years of experience.
+- 🎓 &nbsp; Software Engineer with more than 5 years of experience.
 
-- 🤯 &nbsp; Crazy about software technologies, backend, frontend and a great user experience...
+- 🤯 &nbsp; Crazy about software technologies, backend, architectures, performance and a great user experience...
 
-- 🔎 &nbsp; Learning about Cloud (AWS), arquitectures.
+- 🔎 &nbsp; Learning about Cloud (AWS), arquitectures and security.
 
 - ✍️ &nbsp; True believer that motivation is the way.
 
@@ -48,7 +48,7 @@
 
 <h3>🛠 To Learn</h3>
 
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Go](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
