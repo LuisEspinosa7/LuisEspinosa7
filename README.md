@@ -5,17 +5,13 @@
 <h3> 🧑🏻‍💻 About Me </h3>
 
 
-
 - 🎓 &nbsp; Software Engineer with more than 5 years of experience.
 
-- 🤯 &nbsp; Crazy about software technologies, backend, architectures, performance and a great user experience...
+- 🤯 &nbsp; I am into backend, cloud architectures, performance and security...
 
-- 🔎 &nbsp; Learning about Cloud (AWS), arquitectures and security.
+- 🔎 &nbsp; Learning more about Cloud (AWS), scalable arquitectures and security good practices.
 
-- ✍️ &nbsp; True believer that motivation is the way.
-
-- 🤪 &nbsp; I also enjoy video games, reading, photography, languages, cultures ...
-
+- 🤪 &nbsp; I also enjoy video games, reading, photography, languages and multi-cultural environments.
 
 
 <h3>🛠 Skills</h3>
@@ -23,15 +19,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-3670A0?style=for-the-badge&logo=bash&logoColor=ffdd54)
 </br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![Oracle](https://img.shields.io/badge/Oracle-FA7343?style=for-the-badge&logo=Oracle&logoColor=red&labelColor=101010)]()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </br>
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 </br>
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Caffeine](https://img.shields.io/badge/caffeine-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=brown)
@@ -43,8 +37,9 @@
 ![JBoss](https://img.shields.io/badge/jboss%20EAP-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=red)
 </br>
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/sonarqube-%232C5263.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%235835CC.svg?style=for-the-badge&logo=ansible&logoColor=white)
 </br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -60,30 +55,10 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 </br>
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 </br>
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</br>
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-</br>
-
-
-<h3>🛠 To Learn</h3>
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Sysmte Design](https://img.shields.io/badge/System%20Design-000?style=for-the-badge)
-![OWASP TOP 10](https://img.shields.io/badge/OWASP%20TOP%2010-%230047B3.svg?style=for-the-badge&logoColor=white)
-
 </br>
 
 <hr>
