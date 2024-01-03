@@ -5,7 +5,7 @@
 <h3> 🧑🏻‍💻 About Me </h3>
 
 
-- 🎓 &nbsp; Software Engineer with more than 5 years of experience.
+- 🎓 &nbsp; Software Engineer with more than 6 years of experience.
 
 - 🤯 &nbsp; I am into backend, cloud architectures, performance and security...
 
